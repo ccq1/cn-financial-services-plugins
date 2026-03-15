@@ -10,7 +10,7 @@
 <p align="center">
   <a href="./cn-financial-analysis">金融分析</a> ·
   <a href="./cn-equity-research">股票研究</a> ·
-  <a href="./cn-investment-banking">投行业务</a> ·
+  <a href="./cn-investment-banking">投行业务</a> 
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/images/logo-big.png" alt="CN Financial Services Plugins" width="680" style="border-radius: 16px;" />
+  <img src="./assets/images/logo-big.png" alt="CN Financial Services Plugins" width="600" style="border-radius: 16px;" />
 </p>
 
 <p align="center">
