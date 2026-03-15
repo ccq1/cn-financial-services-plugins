@@ -26,6 +26,12 @@
 
 ![pic](./assets/images/pic.png)
 
+### ❯ /cn-equity-research 分析公司季报，年报工具
+![pic2](./assets/images/pic2.png)
+
+### /cn-dcf-model DCF 估值模型工具
+![pic3](./assets/images/pic3.png)
+
 ## 插件一览
 
 | 插件 | 类型 | Skills | Commands | 功能 |
