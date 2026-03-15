@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">CN Financial Services Plugins</h1>
+  <h1 align="center"><img src="./assets/images/logo-small.png" alt="logo" width="43" style="vertical-align: -6px; margin-right: 8px;" />CN Financial Services Plugins</h1>
 </p>
 
 <p align="center">
@@ -11,8 +11,28 @@
   <a href="./cn-financial-analysis">金融分析</a> ·
   <a href="./cn-equity-research">股票研究</a> ·
   <a href="./cn-investment-banking">投行业务</a> ·
-  <a href="https://github.com/ccq1/cn-financial-mcp">MCP 数据源</a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-Apache--2.0-yellow.svg" alt="Apache-2.0 License"/>
+  <img src="https://img.shields.io/badge/Data-A%E8%82%A1%20%7C%20%E5%AE%8F%E8%A7%82%20%7C%20%E8%A1%8C%E4%B8%9A-red.svg" alt="A股 | 宏观 | 行业"/>
+  <img src="https://img.shields.io/badge/Plugins-3-7A3EF0.svg" alt="Plugins 3"/>
+  <img src="https://img.shields.io/badge/Skills-14-2563EB.svg" alt="Skills 14"/>
+  <img src="https://img.shields.io/badge/Commands-14-059669.svg" alt="Commands 14"/>
+  <img src="https://img.shields.io/badge/Tools-42-E11D48.svg" alt="Tools 42"/>
+</p>
+
+<p align="center">
+  <img src="./assets/images/logo-big.png" alt="CN Financial Services Plugins" width="680" style="border-radius: 16px;" />
+</p>
+
+<p align="center">
+  <a href="#安装">🚀 快速安装</a> ·
+  <a href="#全部命令">📚 查看命令</a> ·
+  <a href="#插件一览">🧩 插件总览</a> ·
+  <a href="https://github.com/ccq1/cn-financial-mcp">🔌 MCP 数据源</a>
+</p>
+
 
 ---
 
