@@ -38,7 +38,7 @@
 
 ## 简介
 
-**cn-financial-services-plugins** 是一套专为cn大陆金融市场设计的 [Claude](https://claude.ai) 插件集合，参考 Anthropic [financial-services-plugins](https://github.com/anthropics/financial-services-plugins) 架构，所有 Skills 和 Commands 针对 A 股市场、cn企业会计准则、cn监管体系深度本土化。
+**cn-financial-services-plugins** 是一套专为cn大陆金融市场设计的 [Claude](https://claude.ai) 插件集合，参考 Anthropic [financial-services-plugins](https://github.com/anthropics/financial-services-plugins) 技能包，支持一键分析上市公司财务报表，行业竞争对比，估值测算，投资逻辑等。
 
 适用于 [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview)、[Claude Cowork](https://claude.com/product/cowork) 以及任何支持 Claude 插件协议的平台。
 
