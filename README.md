@@ -24,11 +24,7 @@
 
 数据源通过 MCP 协议连接 [cn-financial-mcp](https://github.com/ccq1/cn-financial-mcp)（基于 AKShare），42 个金融数据工具，无需 API Key，开箱即用。
 
-## 测试图片
-
-这是个测试。
-
-![测试图片](./assets/images/pic.png)
+![pic](./assets/images/pic.png)
 
 ## 插件一览
 
