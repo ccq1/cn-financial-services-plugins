@@ -1,0 +1,23 @@
+{
+  "name": "cn-financial-services-plugins",
+  "owner": {
+    "name": "ccq1"
+  },
+  "plugins": [
+    {
+      "name": "cn-financial-analysis",
+      "source": "./cn-financial-analysis",
+      "description": "A股核心金融分析工具：可比公司分析、DCF估值、三表建模、竞争分析。支持中国企业会计准则、申万行业分类。"
+    },
+    {
+      "name": "cn-equity-research",
+      "source": "./cn-equity-research",
+      "description": "A股研究工具：财报分析、首次覆盖报告、选股策略、晨报、行业综述、投资逻辑跟踪。"
+    },
+    {
+      "name": "cn-investment-banking",
+      "source": "./cn-investment-banking",
+      "description": "中国投行工具：IPO分析（科创板/创业板/北交所）、并购模型、路演材料、债券发行分析。"
+    }
+  ]
+}

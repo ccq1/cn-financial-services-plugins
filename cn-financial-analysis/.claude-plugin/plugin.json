@@ -1,0 +1,8 @@
+{
+  "name": "cn-financial-analysis",
+  "version": "0.1.0",
+  "description": "A股核心金融分析工具：可比公司分析、DCF估值、三表建模、竞争分析。支持中国企业会计准则和申万行业分类。",
+  "author": {
+    "name": "CN Financial"
+  }
+}

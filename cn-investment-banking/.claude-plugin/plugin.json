@@ -1,0 +1,8 @@
+{
+  "name": "cn-investment-banking",
+  "version": "0.1.0",
+  "description": "中国投行工具：IPO分析（科创板/创业板/北交所）、并购模型、路演材料、债券发行分析。",
+  "author": {
+    "name": "CN Financial"
+  }
+}

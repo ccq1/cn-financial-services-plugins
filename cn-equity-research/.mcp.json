@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "cn-financial": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["-m", "cn_financial_mcp"],
+      "cwd": "~/cn-financial-mcp/src",
+      "env": {
+        "PYTHONPATH": "~/cn-financial-mcp/src"
+      }
+    }
+  }
+}
