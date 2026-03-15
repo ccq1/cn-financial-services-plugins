@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"><img src="./assets/images/logo-small.png" alt="logo" width="38" /> CN Financial Services Plugins</h1>
+  <h1 align="center"><sub><img src="./assets/images/logo-small.png" alt="logo" width="38" /></sub> CN Financial Services Plugins</h1>
 </p>
 
 <p align="center">
